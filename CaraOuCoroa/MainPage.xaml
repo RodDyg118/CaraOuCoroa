@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CaraOuCoroa.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <!--Imagem Ilustartiva Principal-->
+            <Image
+                Source="img_moeda.png"
+                HeightRequest="185"
+                Aspect="AspectFit"/>
+            <!--Titulo Principal-->
+            <Label
+                Text="Cara Ou Coroa ?"
+                Style="{StaticResource Headline}"/>
+            <!--Descricao do sistema-->
+            <Label
+                Text="Antes de testar a sorte, escolha o lado da moeda e clique em Girar"
+                Style="{StaticResource SubHeadline}"/>
+            <!--Botao de escolhas-->
+            <Picker 
+                x:Name="BotaoListaOpcoes"
+                Title="Selecione o lado da moeda"
+                SelectedIndexChanged="OpcaoSelecionadaPicker">
+                <Picker.Items>
+                    <x:String>Cara</x:String>
+                    <x:String>Coroa</x:String>
+                </Picker.Items>
+            </Picker>
+            <!--Botao Principal para Executar o Comando(Moeda)-->
+            <Button
+                x:Name="GirarMoedaAMoeda"
+                Text="Gire" 
+                Clicked="GirarMoeda" />
+            <Label
+                x:Name="LabelResultadoSorteio"
+                Text=""
+                Style="{StaticResource Headline}"
+                />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
