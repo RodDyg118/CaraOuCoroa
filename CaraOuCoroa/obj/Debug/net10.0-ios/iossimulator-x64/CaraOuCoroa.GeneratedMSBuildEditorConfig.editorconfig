@@ -21,13 +21,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CaraOuCoroa
-build_property.ProjectDir = D:\2DS\Rodrigo M\Rodrigo 2DS\CaraOuCoroa\CaraOuCoroa\
+build_property.ProjectDir = D:\2DS\Rodrigo M\CaraOuCoroa\CaraOuCoroa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/2DS/Rodrigo M/Rodrigo 2DS/CaraOuCoroa/CaraOuCoroa/App.xaml]
+[D:/2DS/Rodrigo M/CaraOuCoroa/CaraOuCoroa/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CaraOuCoroa.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -37,7 +37,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2DS/Rodrigo M/Rodrigo 2DS/CaraOuCoroa/CaraOuCoroa/AppShell.xaml]
+[D:/2DS/Rodrigo M/CaraOuCoroa/CaraOuCoroa/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CaraOuCoroa.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -47,7 +47,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2DS/Rodrigo M/Rodrigo 2DS/CaraOuCoroa/CaraOuCoroa/MainPage.xaml]
+[D:/2DS/Rodrigo M/CaraOuCoroa/CaraOuCoroa/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CaraOuCoroa.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
@@ -57,7 +57,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2DS/Rodrigo M/Rodrigo 2DS/CaraOuCoroa/CaraOuCoroa/Resources/Styles/Colors.xaml]
+[D:/2DS/Rodrigo M/CaraOuCoroa/CaraOuCoroa/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CaraOuCoroa.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
@@ -67,7 +67,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[D:/2DS/Rodrigo M/Rodrigo 2DS/CaraOuCoroa/CaraOuCoroa/Resources/Styles/Styles.xaml]
+[D:/2DS/Rodrigo M/CaraOuCoroa/CaraOuCoroa/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CaraOuCoroa.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

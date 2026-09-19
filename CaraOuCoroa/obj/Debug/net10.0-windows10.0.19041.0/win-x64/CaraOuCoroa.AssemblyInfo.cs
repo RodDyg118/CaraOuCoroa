@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaraOuCoroa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a4b6bd0c112737e7d79ce179aa4e2ce5bc935509")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaraOuCoroa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaraOuCoroa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

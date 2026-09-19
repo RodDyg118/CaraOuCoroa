@@ -37,8 +37,20 @@
                 Clicked="GirarMoeda" />
             <Label
                 x:Name="LabelResultadoSorteio"
-                Text=""
+                Text="Resultado do Sorteio: "
                 Style="{StaticResource Headline}"
+                />
+
+            <Label
+                x:Name="ResultadoVouD"
+                Text="Final:  "
+                Style="{StaticResource Headline}"
+                />
+            <Label
+                Text="Historico"/>
+            <Label
+                x:Name="HistoricoDeVeD"
+                Text=""
                 />
 
         </VerticalStackLayout>
